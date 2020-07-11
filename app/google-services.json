@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "349511597551",
+    "firebase_url": "https://nagaland-89ddb.firebaseio.com",
+    "project_id": "nagaland-89ddb",
+    "storage_bucket": "nagaland-89ddb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349511597551:android:1f465fd3e5137e76d34a1a",
+        "android_client_info": {
+          "package_name": "com.covid19.nagaland"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349511597551-lf7lt2udqelrm71khighbvhqiltvt296.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuzUKp-hJ5F3KA1gk5ChMakXbnz9HNd0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349511597551-lf7lt2udqelrm71khighbvhqiltvt296.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
